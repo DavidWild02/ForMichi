@@ -5,7 +5,8 @@
   "main": "main.js",
   "bin": "bin.js",
   "dependencies": {
-    "axios": "^0.20.0"
+    "axios": "^0.20.0",
+    "toml-js": "0.0.8"
   },
   "devDependencies": {},
   "scripts": {

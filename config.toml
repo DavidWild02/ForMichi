@@ -1,0 +1,12 @@
+destinationPath = "train.js"     # You can also set a full-path otherwise it will be saved in the same folder as the exe is.
+min = 0
+max = 999
+
+Ids = [        
+    1144,
+    1142,
+    1016,
+    1116,
+    1216,
+    2043,
+]
